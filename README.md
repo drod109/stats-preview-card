@@ -24,10 +24,9 @@ Users should be able to:
 ### Screenshot
 
 ![Project Desktop Screenshot](https://i.postimg.cc/Jh8h0sC8/Screenshot-2024-01-15-163455-desktop.png)
-![Project Mobile Screenshot](https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png)
 
 <p align="center">
-  <img width="600" height="200" src="https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png">
+  <img width="416" height="862" src="https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png">
 </p>
 
 ### Links
