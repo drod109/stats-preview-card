@@ -17,9 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### The challenge
 
-Users should be able to:
-
-- See hover states for interactive elements
+The challenge is to build out this card component and get it looking as close to the design as possible.
 
 ### Screenshot
 
