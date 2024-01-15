@@ -21,7 +21,7 @@ The challenge is to build out this card component and get it looking as close to
 
 ### Screenshot
 
-![Project Desktop Screenshot](https://i.postimg.cc/Jh8h0sC8/Screenshot-2024-01-15-163455-desktop.png)
+![Project Desktop Screenshot](https://i.postimg.cc/65h12QSK/Screenshot-2024-01-15-163455-desktop.png)
 
 <p align="center">
   <img width="416" height="862" src="https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png">
