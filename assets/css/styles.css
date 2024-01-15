@@ -113,11 +113,12 @@ body {
 .stats-companies span,
 .stats-templates span,
 .stats-queries span {
+    font-family: var(--ff-lexdeca);
     color: var(--clr-slightly-transparent-white-2);
     text-transform: uppercase;
     font-size: var(--fs-sm);
     font-weight: var(--fw-reg);
-    letter-spacing: 0.133rem;
+    letter-spacing: 0.131rem;
 }
 .card-right {
     display: flex;
@@ -141,6 +142,7 @@ body {
     height: 100%
 }
 .author {
+    font-family: var(--ff-lexdeca);
     font-size: var(--fs-sm);
     font-weight: var(--fw-reg);
     color: var(--clr-slightly-transparent-white-2);
@@ -159,10 +161,8 @@ body {
     .card {
         flex-direction: column-reverse;
         border-radius: var(--border-radius-xsm);
-        min-height: 100vh;
         min-height: 100svh;
-        max-width: 90vw;
-        max-width: 90svw;
+        max-width: 95svw;
     }
     .card-header h1 {
         padding-top: var(--spacing-med);
