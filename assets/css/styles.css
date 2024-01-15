@@ -159,6 +159,8 @@ body {
     .card {
         flex-direction: column-reverse;
         border-radius: var(--border-radius-xsm);
+        min-height: 100vh;
+        min-height: 100svh;
         max-width: 90vw;
         max-width: 90svw;
     }
