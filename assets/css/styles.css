@@ -178,12 +178,14 @@ body {
         border-bottom-right-radius: 0;
         width: calc(90vw);
         width: calc(90svw);
-        height: calc(100vw * 9 / 16);
+        height: calc(50vh * 9 / 16);
+        height: calc(50svh * 9 / 16);
     }
     .image-layer {
         background-color: hsla(277, 90%, 35%, 0.5);
         border-top-right-radius: var(--border-radius-xsm);
         border-top-left-radius: var(--border-radius-xsm);
+        border-bottom-right-radius: 0;
         width: 100%;
         height: 100%
     }
