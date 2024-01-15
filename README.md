@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![Project Desktop Screenshot](https://i.postimg.cc/Jh8h0sC8/Screenshot-2024-01-15-163455-desktop.png)
-![Project Mobile Screenshot]<p style="text-align: center;">(https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png)</p>
+![Project Mobile Screenshot](https://i.postimg.cc/52L0fwGp/Screenshot-2024-01-15-163405-mobile.png)
 
 ### Links
 
