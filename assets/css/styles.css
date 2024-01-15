@@ -159,6 +159,8 @@ body {
     .card {
         flex-direction: column-reverse;
         border-radius: var(--border-radius-xsm);
+        max-width: 90vw;
+        max-width: 90svw;
     }
     .card-header h1 {
         padding-top: var(--spacing-med);
@@ -174,7 +176,8 @@ body {
         border-top-right-radius: var(--border-radius-xsm);
         border-top-left-radius: var(--border-radius-xsm);
         border-bottom-right-radius: 0;
-        width: calc(100vw);
+        width: calc(90vw);
+        width: calc(90svw);
         height: calc(100vw * 9 / 16);
     }
     .image-layer {
