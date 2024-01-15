@@ -166,6 +166,10 @@ body {
         padding-top: var(--spacing-med);
         font-size: var(--fs-lg);
         font-weight: var(--fw-bold);
+        text-align: center;
+    }
+    .card-message p {
+        text-align: center;
     }
     .card-image {
         z-index: 1;
