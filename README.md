@@ -30,7 +30,7 @@ The challenge is to build out this card component and get it looking as close to
 ### Links
 
 - Live Site URL Primary: [Live Site Preview](https://drod109.github.io/stats-preview-card/)
-- Live Site URL Backup: [Live Site Preview](https://codepen.io/drodrigues/full/)
+- Live Site URL Backup: [Live Site Preview](https://codepen.io/drodrigues/full/rNRjvzj)
 
 ## My process
 
